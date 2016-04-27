@@ -4,6 +4,7 @@ Rainbow is a CSS Color Framework. 1343 Color Codes Based on Pantone Coated Color
 **Created by RASHIDUL HASAN.**
 <br>Email: write@rashidul.com
 <br>Web: www.rashidul.com
+<br>FB: https://www.fb.com/master.of.the.web
 
 ###HOW TO USE
 1. Copy the css link and paste it inside your page **&lt;head&gt;&lt;/head&gt;** tag: <code>&lt;link href=&quot;rainbow/rainbow.min.css&quot; rel=&quot;stylesheet&quot;&gt;</code>

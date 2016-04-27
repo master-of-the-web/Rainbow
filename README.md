@@ -11,4 +11,4 @@ Rainbow is a CSS Color Framework. 1343 Color Codes Based on Pantone Coated Color
 2. Then call css class in your design: <code>&lt;div class=&quot;bg-17 txt-1&quot;&gt;Hello Rainbow :)&lt;/div&gt;</code>
 
 ###TUTORIAL
-Open <code>documentation/index.html</code> file after download.
+Open <code>documentation/index.html</code> file after download or visit http://master-of-the-web.github.io/Rainbow
